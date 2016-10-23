@@ -1,0 +1,6 @@
+/home/jacque/Projects/Adrienne_Revisited/Adrienne_Revisited/obj/x86/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.fs
+/home/jacque/Projects/Adrienne_Revisited/Adrienne_Revisited/bin/Debug/Adrienne_Revisited.exe.mdb
+/home/jacque/Projects/Adrienne_Revisited/Adrienne_Revisited/bin/Debug/Adrienne_Revisited.exe
+/home/jacque/Projects/Adrienne_Revisited/Adrienne_Revisited/obj/x86/Debug/Adrienne_Revisited.exe
+/home/jacque/Projects/Adrienne_Revisited/Adrienne_Revisited/obj/x86/Debug/Adrienne_Revisited.exe.mdb
+/home/jacque/Projects/Adrienne_Revisited/Adrienne_Revisited/bin/Debug/YamlDotNet.dll
